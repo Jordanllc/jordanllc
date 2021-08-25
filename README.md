@@ -1,6 +1,6 @@
 ### 👋, I'm Poeem
 
-<img alt="Custom badge" src="https://img.shields.io/endpoint?color=green&label=DISCORD&logo=discord&style=for-the-badge&url=https%3A%2F%2Fpastebin.com%2Fraw%2FutFANXpk">
+<img alt="Custom badge" src="https://img.shields.io/badge/Discord-Chicho%231337-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 <a href="https://twitter.com/Unknown1ess">
   <img align="left" alt="Poeem" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
