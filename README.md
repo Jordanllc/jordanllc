@@ -15,11 +15,11 @@
 - 📫 How to contact me **rbcproyects@gmail.com**
   
 <a href="https://github.com/rbc">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=poeem&show_icons=true&include_all_commits=false&theme=radical&count_private=true" alt="Rbc's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rbc&show_icons=true&include_all_commits=false&theme=radical&count_private=true" alt="Rbc's github stats" />
 </a>
 
 <a href="https://github.com/rbc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poeem&layout=compact&theme=radical" alt="Rbc's langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbc&layout=compact&theme=radical" alt="Rbc's langs" />
 </a>
   
 <br />
