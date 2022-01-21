@@ -1,24 +1,25 @@
-### 👋, I'm Jordan
+# Welcome to Jordan GitHub! 👋
 
-<a href="https://twitter.com/jordanllc">
-  <img align="left" alt="rbc" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+### About me. 🚀
+###### Who I am?
+> * My name is Jordan, this is my github you can found my free proyects or my private librarys, Everything I know is self taught, growing my knowledge and understanding every day.
+> i have some years of experience in Java.
 
-<a href="https://discord.gg/legends">
-  <img align="left" alt="rbc" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+###### What am I learning?
+> * im currently studying different programming languages how can they be python, html/ccs, js, java etc... Also im studying pentesting, cybersecurity in general and AI stuff. *(I am* ***currently*** *learning everything as a*  **freelancer** *)*.
+###### What am I working on?
+>* now im working on Jordan Proyects. you can contact me at my discord or Gmail.
 
-<br />
+### Contact📲
+>  🔔 Discord: **Jordan.#7816**
+> 
+>  📨️ E-Mail: **jordanrbccc@gmail.com**
 
-- 🌱 I’m currently learning **Java and JS and C++**
 
-- 📫 How to contact me **jordanrbccc@gmail.com**
-  
-<a href="https://github.com/rbc">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jordanllc&show_icons=true&include_all_commits=false&theme=radical&count_private=true" alt="Jordan's github stats" />
-</a>
-  
-<br />
-<br />
-  
+# GitHub Statistics 📊
+![](https://komarev.com/ghpvc/?username=lowg0d&color=blueviolet)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jordanllc&count_private=true&show_icons=true&show_owner=true&border_color=fffff&bg_color=0a0c10">   
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordanllc&show_icons&theme=radical&show_owner=true&border_color=fffff&bg_color=0a0c10&theme=synthwave">
+
 
