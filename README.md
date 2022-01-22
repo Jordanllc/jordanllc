@@ -8,7 +8,7 @@
 ###### What am I learning?
 > * im currently studying different programming languages how can they be python, html/ccs, js, java etc... Also im studying pentesting, cybersecurity in general and AI stuff. *(I am* ***currently*** *learning everything as a*  **freelancer** *)*.
 ###### What am I working on?
->* now im working on Jordan Proyects. you can contact me at my discord or Gmail.
+>* now im working on Merlyn Proyects. you can contact me at my discord or Gmail.
 
 ### Contact📲
 >  🔔 Discord: **Jordan.#7816**
