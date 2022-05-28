@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+Mi+Boy!+👋;This+is+pm+or+Jordan+🚬+Github...)](https://git.io/typing-svg)
 
-![GitHub metrics](https://metrics.lecoq.io/Poeettyy)  
+![GitHub metrics](https://metrics.lecoq.io/Jordanllc)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordanllc&show_icons=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jordanllc)  
