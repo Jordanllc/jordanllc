@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+Mi+Boy!+👋;This+is+pm+or+Jordan+🚬+Github...)](https://git.io/typing-svg)
 
 ####  
-Java Programmer actually am not full-time Programmer, im acctually making my own project Ohara Studios
+**💬 Description**
+Java Programmer actually am not full-time Programmer, im acctually making my own project **Ohara Studios**.
 
 ![GitHub metrics](https://metrics.lecoq.io/Jordanllc)  
 
