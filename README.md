@@ -4,8 +4,6 @@
 ####
 Java Programmer actually am not full-time Programmer, im acctually making my own project **Ohara Studios**.
 
-![GitHub metrics](https://metrics.lecoq.io/Jordanllc)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordanllc&show_icons=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jordanllc)  
 
